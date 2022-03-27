@@ -26,9 +26,9 @@
     <a href="https://discord.gg/moulberry" target="_blank">
         <img src="https://img.shields.io/discord/516977525906341928?label=discord&color=informational&logo=Discord&logoColor=FFFFFF" alt="discord">
     </a>
-    <!-- patreon -->
-    <a href="https://www.patreon.com/moulberry" target="_blank">
-        <img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dmoulberry%26type%3Dpatrons&logoColor=FFFFFF&color=informational" alt="patreon">
+    <!-- downloads -->
+    <a href="https://github.com/Moulberry/NotEnoughUpdates/releases" target="_blank">
+        <img src="https://img.shields.io/github/downloads/Moulberry/NotEnoughUpdates/total?label=downloads&color=informational&logo=GitHub" alt="downloads">
     </a>
 </p>
 
@@ -55,7 +55,7 @@ NotEnoughUpdates (NEU) is a feature rich 1.8.9 Minecraft forge mod for Hypixel S
 4. Then, hop onto Skyblock and run the command `/api new`. Your api key is automatically filled out and all features should work.
 5. Type `/neu`. If you see the NotEnoughUpdates menu, you have done this correctly!
 
-*If you need further assistance feel free to join the [discord](https://discord.gg/moulberry) and ask for help in [#neu-support-1](discord://discord.com/channels/516977525906341928/714332750156660756)*
+*If you need further assistance feel free to join the [discord](https://discord.gg/moulberry) and ask for help in [#neu-support](discord://discord.com/channels/516977525906341928/714332750156660756)*
 
 ## Features
 
@@ -76,4 +76,4 @@ NotEnoughUpdates (NEU) is a feature rich 1.8.9 Minecraft forge mod for Hypixel S
 - A custom enchanting table GUI.
 - Slot Locking
 - Fishing Particle customization & alerts.
-- And much, much, more.
+- And [much, much, more.](https://gist.github.com/jani270/d33e249d40b0333b87ba5c5e70fca398)
